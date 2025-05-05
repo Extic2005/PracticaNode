@@ -1,0 +1,22 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Extic2005/PracticaNode.git"
+  },
+  "author": "Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Extic2005/PracticaNode/issues"
+  },
+  "homepage": "https://github.com/Extic2005/PracticaNode#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
