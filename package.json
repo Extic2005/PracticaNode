@@ -15,8 +15,9 @@
     "url": "https://github.com/Extic2005/PracticaNode/issues"
   },
   "homepage": "https://github.com/Extic2005/PracticaNode#readme",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
